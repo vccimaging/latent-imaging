@@ -18,7 +18,7 @@ git clone https://github.com/vccimaging/latent-imaging.git
 cd latent-imaging
 ```
 - Dependencies:  
-All dependencies for defining the environment are provided in `lsi.yaml`.
+All dependencies defining the environment are provided in `lsi.yaml`.
 
 ### Inference Notebook
 We provide two Jupyter notebooks `inference_real.ipynb` and `inference_simulation.ipynb` to reproduce the experimental and simulation paper results respectively.
