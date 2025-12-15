@@ -40,7 +40,7 @@ It is also necessary to download the pre-trained generative model StyleGANXL and
 | :--- | :----------
 |[FFHQ StyleGANXL](https://drive.google.com/file/d/1snWFSv36KLThfNC6m7FUh6dGQGZiFhF5/view?usp=drive_link) | StyleGANXL model pretrained on FFHQ taken from the original repository [StyleGANXL](https://github.com/autonomousvision/stylegan-xl).
 |[IR-SE50 Model](https://drive.google.com/file/d/1KW7bjndL3QG3sxBbZxreGHigcCCpsDgn/view?usp=sharing) | Pretrained IR-SE50 model taken from [TreB1eN](https://github.com/TreB1eN/InsightFace_Pytorch) for use in our ID loss during training.
-|[Inversion Model StyleGANXL](https://drive.google.com/file/d/1snWFSv36KLThfNC6m7FUh6dGQGZiFhF5/view?usp=drive_link) | Trained inversion model for StyleGANXL model on FFHQ utilized as loss function.
+|[Inversion Model StyleGANXL](https://drive.google.com/file/d/1j7_YnUE2DqPdxIr7ZCj30CX9Fqn40rSr/view?usp=share_link) | Trained inversion model for StyleGANXL model on FFHQ utilized as loss function.
 
 The models should be placed in the `pretrained_models` directory.
 
